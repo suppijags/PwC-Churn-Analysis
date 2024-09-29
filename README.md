@@ -7,6 +7,9 @@ This project focused on churn analysis of PwC ,multinational professional servic
 Key Features:
 
 Interactive Dashboards: Explore churn trends and segment analysis.
+
 DAX Skills for calculated columns, measures, and dynamic titles.
+
 KPI Tracking: Monitored key retention metrics.
+
 Scenario Analysis: Evaluated potential retention strategies.
